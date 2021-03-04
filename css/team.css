@@ -15,17 +15,19 @@ header{
 padding-top: 100px ;
 }
 
-img{
+img {
         height: 150px;
         width: 150px;
-        border-radius: 50%;
+        }
+.container-team
+{
+    padding-top: 40px;
+}
 
-}
-.nom{
+section{
     color: black;
-    font-size: medium;
 }
-.metier{
-    color: black;
-    font-size:small;
+footer{
+    padding-top: 50px;
+    padding-bottom: 200px;
 }
